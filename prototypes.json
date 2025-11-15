@@ -1,0 +1,127 @@
+[
+    {
+        "text-en": "Privacy Breach in Data Collection Raises Public Concerns\n\nA smart fitness company has faced widespread criticism from users and regulatory bodies over privacy breaches in the data collection process of its AI fitness trackers. The company’s smart wristband collects user health data (such as heart rate, steps, and sleep quality) for analysis, but during data uploads to the cloud, sensitive information was not adequately encrypted or anonymized, resulting in unauthorized access to some users' private data. Regulatory authorities have launched an investigation and instructed the company to improve its data protection measures. The company stated that it will enhance privacy protection during data collection to ensure user data security.",
+        "text-zh": "数据采集中的隐私泄露问题引发社会关注\n\n一家智能健身公司因其AI健身追踪器在数据采集过程中存在隐私泄露问题，遭到了用户和监管机构的广泛批评。该公司的一款智能手环通过收集用户的健康数据（如心率、步数和睡眠质量等）进行分析，但在数据上传到云端过程中，未对敏感信息进行有效加密和去标识化处理，导致部分用户的私人数据被不当访问。监管机构已介入调查，并要求该公司立即改进数据保护措施。公司表示，将加强数据采集环节的隐私保护措施，确保用户数据安全。",
+        "label": "collection"
+    },
+    {
+        "text-en": "Data Quality Control Lapses Lead to Distorted Training Data in AI Project\n\nA facial recognition technology developer has faced criticism after poor data quality control during the data collection stage led to distorted training data, ultimately affecting the accuracy and fairness of the system. The company failed to effectively filter and clean samples during the data collection process, resulting in lower recognition rates for certain demographic groups, particularly non-white users. Experts pointed out that this issue highlights the critical importance of data quality control, especially in AI applications that involve sensitive social issues. The company has pledged to strengthen its data quality auditing processes and re-label and clean the dataset to improve system accuracy and fairness.",
+        "text-zh": "数据质量控制漏洞导致AI项目训练数据失真\n\n某人工智能公司在进行面部识别技术开发时，因数据采集环节的质量控制不严，导致训练数据出现失真，最终影响了系统的准确性和公平性。该公司在数据采集阶段未能有效筛选和清洗样本，导致系统对某些人群的识别率较低，特别是对非白人用户的识别效果较差。专家指出，这一问题暴露了数据质量控制的重要性，尤其是在涉及社会敏感问题的AI应用中。公司已承诺加强数据质量审核流程，并重新标注和清洗数据集，以提高系统的准确性和公平性。",
+        "label": "collection"
+    },
+    {
+        "text-en": "Ethical Concerns in Social Media Data Collection Spark User Backlash\n\nA major social media platform is facing a backlash from users due to ethical concerns over its data collection practices, which bypassed user privacy rights and informed consent. The platform collected extensive data related to user behavior, including chat logs and browsing habits, without clearly notifying users, and used this data for targeted advertising without authorization. Some users have expressed strong dissatisfaction with the platform's privacy policy, claiming they never consented to the collection of such detailed personal data. A company spokesperson stated that they are reevaluating their data collection policies and will place greater emphasis on user privacy and transparency moving forward.",
+        "text-zh": "社交平台数据采集中的伦理问题引发用户反感\n\n近日，一家大型社交平台因其在数据采集过程中忽视用户隐私权和知情同意，遭到大量用户反感和投诉。该平台在未明确告知用户的情况下，收集了大量与用户行为相关的数据，包括聊天记录、浏览习惯等，并在未经授权的情况下将这些数据用于广告定向。部分用户表示，他们并未同意平台收集如此详细的个人数据，并对平台的隐私政策表示强烈不满。该公司发言人表示，正在重新评估数据采集政策，并将更加重视用户隐私和透明度。",
+        "label": "collection"
+    },
+    {
+        "text-en": "AI Logistics System Errors in Data Collection Lead to Delivery Delays\n\nA logistics company experienced multiple delivery delays due to errors in its AI logistics system during the data collection stage. The system incorrectly assessed changes in road conditions in certain cities while collecting transportation route data, resulting in poor route selection. A company spokesperson stated that an investigation has been launched, and the issues with the data collection process are being fixed to restore normal logistics efficiency.",
+        "text-zh": "AI物流系统在数据采集阶段错误导致配送延误\n\n某物流公司因其AI物流系统在数据采集阶段的错误，导致多个包裹配送延误。系统在收集运输路线数据时，错误地判断了某些城市路况的变化，导致了运输路径选择不当。公司发言人表示，已经展开调查并修复数据采集环节的问题，以确保物流效率恢复正常。",
+        "label": "collection"
+    },
+    {
+        "text-en": "Data Collection Stage Risks Lead to False Alarms in Smart Surveillance System\n\nThis morning, an AI-powered smart surveillance company in XXX City caused a large-scale traffic jam due to false alarm events triggered by errors in its AI system during the data collection stage. The incident occurred on the first day of the company’s new intelligent traffic monitoring system deployment. The system mistakenly flagged normally passing vehicles as traffic violations during traffic flow data collection, leading to unnecessary signal switches. A company spokesperson stated that the issue arose from the model's failure to correctly interpret complex urban road conditions, and corrective actions are now underway.",
+        "text-zh": "数据采集阶段的隐患导致智能监控系统误报\n\n今天上午，某市的一家智能监控公司因其AI系统在数据采集阶段出现错误，导致数十起误报事件，造成大规模的交通堵塞。事故发生在该公司最新部署的智能交通监控系统启用后的第一天。系统在采集交通流量数据时，错误地将正常通行的车辆识别为交通违规行为，导致了不必要的交通信号切换。公司发言人表示，问题出在数据采集环节的模型未能正确识别复杂的城市道路情况，后续已展开修复工作。",
+        "label": "collection"
+    },
+    {
+        "text-en": "Storage System Failure Leads to Confidential Business Data Leak\n\nA leading e-commerce platform experienced a system failure during the data storage process, resulting in a leak of customer payment information and addresses. The incident occurred because the AI-based storage management system failed to properly assess data sensitivity during migration, leading to some data being stored on unencrypted servers. The company stated that following the incident, they have encrypted the stored data and enhanced monitoring of the storage system.",
+        "text-zh": "数据存储系统故障导致企业机密泄露\n\n一家领先的电商平台在数据存储过程中发生了系统故障，导致大量客户的支付信息和地址数据泄露。事件源于其基于人工智能的存储管理系统在进行数据迁移时未能有效识别数据敏感性，致使部分数据存储在未经加密的服务器上。公司表示，事故发生后，已采取措施加密存储数据，并加强了对存储系统的监控。",
+        "label": "storage"
+    },
+    {
+        "text-en": "Cloud Storage Provider Faces Storage Flaw, User Privacy Leaked\n\nCloud storage provider YunSun Tech recently suffered a data storage vulnerability that led to sensitive data from multiple business clients being accessed by external malicious actors. The AI system had flaws in data encryption and access control, allowing data that should have been encrypted to be exposed. A company spokesperson stated that the issue has been resolved, and they have pledged to strengthen AI system audits and data encryption measures.",
+        "text-zh": "云存储服务商遭遇数据存储漏洞，用户隐私泄露\n\n云存储服务商云存科技近日发生数据存储漏洞，导致其多个企业客户的敏感数据被外部恶意访问。AI系统在数据加密和权限分配上出现漏洞，使得本应加密存储的敏感数据被暴露。公司发言人表示，问题已经解决，并承诺加强对AI系统的审查与数据加密措施。",
+        "label": "storage"
+    },
+    {
+        "text-en": "AI Classification Error Leads to Misstored Customer Data\n\nAn AI company faced an issue where its AI system made a classification error during the data storage process, causing customers' private data to be stored in insecure areas. Despite using state-of-the-art AI technology for data processing, the system failed to accurately identify the storage needs for sensitive data, creating a risk of information leakage. The company stated that it will undergo a full upgrade of its AI system to ensure data storage security.",
+        "text-zh": "AI智能分类失误导致客户数据错误存储\n\n一家人工智能公司因其AI系统在数据存储环节发生分类失误，导致多个客户的私人数据错误地存储在不安全的区域。虽然该公司采用了最先进的AI技术进行数据处理，但在数据存储阶段，系统未能准确识别敏感数据的存储需求，导致了信息泄露的风险。公司表示，将对AI系统进行全面升级，以确保数据存储安全。",
+        "label": "storage"
+    },
+    {
+        "text-en": "Hospital Data Storage Vulnerability Leads to Patient Information Leak\n\nA major hospital recently experienced a data storage vulnerability that allowed external access to patient medical records and personal information. The AI-assisted storage management system failed to correctly encrypt some medical data, resulting in a data leak. The hospital has since implemented fixes and strengthened security reviews of the storage system to prevent similar issues from recurring.",
+        "text-zh": "医院数据存储系统出现漏洞，患者信息泄露\n\n某大型医院近日发生数据存储漏洞事件，导致患者的医疗记录和个人信息被外部访问。AI辅助的存储管理系统未能正确加密某些医疗数据，导致数据泄露。医院方面已经进行了修复，并加强了对存储系统的安全审查，以防止类似问题的再次发生。",
+        "label": "storage"
+    },
+    {
+        "text-en": "Financial Company’s AI Storage System Flaw Exposes Customer Data\n\nA fintech company using AI to optimize data storage suffered a system flaw that exposed the account information of thousands of customers. The AI system failed to properly encrypt sensitive data during migration, resulting in some information being mistakenly stored on publicly accessible servers. The company stated that emergency response procedures have been initiated and that they are enhancing the security of their data storage systems.",
+        "text-zh": "金融公司AI存储系统漏洞导致客户数据暴露\n\n一家金融科技公司在使用人工智能优化数据存储时，发生了系统漏洞，导致数千名客户的账户信息暴露。AI系统在进行数据迁移时未能有效处理敏感数据的加密，导致部分信息被错误存储在公开访问的服务器上。公司表示，已启动应急响应，正在加强数据存储安全性。",
+        "label": "storage"
+    },
+    {
+        "text-en": "AI Financial Model Triggers Stock Market Crash, Hundreds of Billions Lost\n\nLast night's stock market crash was triggered by an error in the AI trading system of a financial institution. The model failed to account for significant economic events while processing historical market data, leading to incorrect trading decisions that caused a sharp decline in stock prices. Experts have pointed to inadequate data cleaning and improper handling of outliers as the root causes of the incident.",
+        "text-zh": "AI金融模型引发股市崩盘，数百亿损失\n\n在昨晚的股市交易中，某金融机构的AI交易系统因数据计算阶段的错误而导致股市大幅波动。由于模型在处理历史市场数据时未能识别出重要的经济事件，错误的交易决策引发了股价急剧下跌，导致投资者损失超过百亿。专家指出，数据清洗和异常值处理不当是导致这一事故的根本原因。",
+        "label": "computation"
+    },
+    {
+        "text-en": "Self-Driving Car Causes Severe Traffic Accident Due to Data Calculation Error\n\nA self-driving car was involved in a severe traffic accident in the city center. Preliminary investigations revealed that the AI system failed to correctly assess road conditions during the data computation phase, leading the vehicle to misjudge an obstacle ahead. Algorithmic bias during the data calculation phase caused the car to fail to take evasive action in time, resulting in a collision. Experts are calling for stronger real-time data processing and validation mechanisms in AI systems.",
+        "text-zh": "自动驾驶汽车因数据计算错误导致严重交通事故\n\n一辆自动驾驶汽车在市区发生了严重的交通事故。初步调查表明，AI系统在数据计算阶段未能准确识别路况，导致车辆误判前方的障碍物。数据计算阶段的算法偏差使得汽车未能及时采取避让措施，最终发生碰撞。专家呼吁加强AI系统中的实时数据处理和验证机制。",
+        "label": "computation"
+    },
+    {
+        "text-en": "AI Prediction System Misjudges Weather, Leading to Severe Emergency Response Failure\n\nAn AI weather prediction system in a certain region failed to accurately predict an approaching heavy storm, resulting in serious errors in the local government's disaster response. The AI system misinterpreted key climatic indicators during the data computation phase, causing the early warning system to fail. Authorities are conducting a thorough review of the model's training data and computation algorithms.",
+        "text-zh": "AI预测系统误判天气，导致严重灾害应急失误\n\n某地区的AI天气预测系统因数据计算错误未能准确预测即将来临的强暴雨，导致地方政府在灾害应急响应中发生严重失误。AI系统在处理气象数据时未能正确识别气候变化的关键特征，导致提前预警的机制未能启动。相关部门正对模型的训练数据和计算算法进行全面审查。",
+        "label": "computation"
+    },
+    {
+        "text-en": "AI Diagnostic System Misdiagnoses Patient, Treatment Delay Leads to Medical Dispute\n\nA patient failed to receive timely treatment due to an AI diagnostic system's misdiagnosis, worsening their condition. Investigations revealed that the model in the data computation phase failed to accurately process the patient's medical history, leading to an incorrect diagnosis. Inadequate data cleaning and handling, as well as the model's failure to account for all symptoms, were key factors contributing to the incident.",
+        "text-zh": "智能诊断系统误诊患者，延误治疗引发医疗纠纷\n\n一名患者因依赖智能诊断系统而未能及时接受正确治疗，导致病情加重。调查发现，AI系统在数据计算阶段的模型未能准确判断患者的病历信息，导致了错误的诊断结果。数据清洗和处理环节的不足，以及模型未能涵盖所有病症特征，成为导致此事故的关键因素。",
+        "label": "computation"
+    },
+    {
+        "text-en": "AI Recruitment System Discrimination Exposed, Data Computation Phase Key Factor\n\nA company is facing widespread public backlash after its AI recruitment system exhibited discriminatory behavior. Investigations revealed that biases in the data computation phase led to unfair processing of applicants' resumes from diverse backgrounds. Certain implicit data patterns introduced during feature engineering caused gender and racial discrimination. Experts are calling for more transparent algorithms and data handling processes.",
+        "text-zh": "AI招聘系统歧视问题暴露，数据计算环节成关键因素\n\n一家公司因其AI招聘系统中出现歧视问题而面临广泛的舆论压力。调查发现，AI系统在数据计算阶段存在偏差，未能公平地处理不同背景应聘者的简历。系统在特征工程阶段引入的某些隐性数据模式导致了性别和种族的歧视。专家呼吁更加透明的算法和数据处理流程。",
+        "label": "computation"
+    },
+    {
+        "text-en": "Data Management Flaws Lead to AI Cybersecurity Breach\n\nA cybersecurity breach at a major tech firm has raised alarms about the importance of proper data management in AI systems. The breach occurred after the company’s AI-based security system failed to detect a sophisticated cyber attack. Investigations revealed that the data management phase had overlooked critical updates to the system’s training data, which had not been refreshed for over six months. The outdated and incomplete data led to inaccurate threat detection, allowing the attackers to bypass the system undetected. Experts urge firms to ensure that the data management phase remains a dynamic and ongoing process to prevent such failures in the future.",
+        "text-zh": "数据管理缺陷导致人工智能网络安全漏洞\n\n一家大型科技公司的网络安全漏洞引发了对数据管理在人工智能系统中重要性的关注。该事件发生在公司基于AI的安全系统未能检测到一起复杂的网络攻击。调查发现，数据管理阶段忽视了系统训练数据的关键更新，而这些数据已经有超过六个月未进行刷新。过时且不完整的数据导致了威胁检测的错误，使得攻击者成功绕过了系统的防线。专家呼吁各公司确保数据管理阶段保持动态和持续的过程，以防止未来出现类似问题。",
+        "label": "management"
+    },
+    {
+        "text-en": "Data Management Mistakes Cause AI Model to Fail in Autonomous Vehicles\n\nA malfunction in an autonomous vehicle led to a near-fatal accident, prompting a review of the role data management plays in self-driving technology. The investigation found that while the vehicle’s sensors were functioning properly and the data was collected and stored correctly, errors in the data management phase caused inconsistencies in real-time traffic information processing. These errors led to the AI system making incorrect navigation decisions, resulting in the accident. The case highlights the critical need for effective data management in AI-powered applications, particularly in real-time environments where data quality directly impacts safety.",
+        "text-zh": "数据管理错误导致自动驾驶AI模型失败\n\n一起自动驾驶汽车故障导致了差点致命的交通事故，促使人们重新审视数据管理在自动驾驶技术中的作用。调查发现，尽管车辆的传感器正常工作并且数据采集和存储没有问题，但数据管理阶段的错误导致了实时交通信息处理中的不一致性。这些错误导致AI系统做出了错误的导航决策，最终导致了事故发生。此事件突显了在AI驱动应用中，尤其是在实时环境中，数据管理的有效性对于安全至关重要。",
+        "label": "management"
+    },
+    {
+        "text-en": "AI-Driven Data Migration Leads to Data Loss and Corruption\n\nA major AI-driven data migration project has resulted in the loss and corruption of critical company data. The AI system, which was responsible for automating the migration of data between different storage environments, encountered issues when it failed to correctly map the data fields between systems. This caused some records to be lost or corrupted during the migration process. Although AI is often seen as a solution for streamlining data management tasks, this incident demonstrates the risks associated with relying solely on automated processes for critical data handling. Experts suggest that human oversight should be maintained during such processes to ensure data integrity.",
+        "text-zh": "基于AI的数据迁移导致数据丢失和损坏\n\n一项大型的基于AI的数据迁移项目导致了关键公司数据的丢失和损坏。该AI系统负责自动化在不同存储环境之间的数据迁移，但在系统间数据字段映射时出现问题，导致部分记录在迁移过程中丢失或损坏。尽管AI通常被视为简化数据管理任务的解决方案，但这一事件揭示了在关键数据处理过程中仅依赖自动化流程所带来的风险。专家建议，在此类过程中应保持人工监督，以确保数据完整性。",
+        "label": "management"
+    },
+    {
+        "text-en": "AI-Powered Data Governance System Fails to Detect Compliance Violations\n\nAn AI-powered data governance system that was designed to automate compliance monitoring has failed to detect several critical violations of data protection regulations. The system, which uses machine learning to analyze data flows and ensure compliance with GDPR and other privacy laws, missed key violations due to a lack of real-time analysis capabilities. The AI system was not able to process complex regulatory updates quickly enough to keep up with evolving laws. This failure has led to potential legal ramifications for the company, highlighting the need for a more robust and agile AI solution for data governance.",
+        "text-zh": "人工智能数据治理系统未能发现合规违规行为\n\n一套旨在自动化合规监控的人工智能数据治理系统未能发现几起关键的数据保护法规违规行为。该系统使用机器学习分析数据流，确保遵守GDPR和其他隐私法律，但由于缺乏实时分析能力，它未能发现关键违规行为。AI系统未能及时处理复杂的监管更新，导致未能跟上不断变化的法律法规。此失误可能为公司带来法律后果，突显了在数据治理中需要更强大且灵活的AI解决方案。",
+        "label": "management"
+    },
+    {
+        "text-en": "AI-Powered Marketing Campaigns Derail Due to Poor Data Management\n\nAn AI-powered marketing campaign by a major brand went awry after mismanaged customer data led to irrelevant advertising reaching the wrong audience. The issue arose in the data management phase, where customer segmentation data was incorrectly processed, causing the AI system to deliver personalized content that did not match the target demographic. Despite the accuracy of the data collection and application phases, the failure to manage and clean data properly in the data management phase led to significant financial losses. The company has since committed to enhancing its data management processes to improve the targeting of future campaigns.",
+        "text-zh": "人工智能营销活动因数据管理不当陷入困境\n\n一家大品牌的AI营销活动因客户数据管理不当，导致不相关的广告推送给了错误的受众，从而失败。问题出现在数据管理阶段，其中客户细分数据被错误处理，导致AI系统推送的个性化内容与目标受众不符。尽管数据采集和应用阶段的准确性未受影响，但在数据管理阶段未能有效管理和清洗数据，导致了重大财务损失。该公司已承诺加强数据管理流程，以改善未来营销活动的定位。",
+        "label": "management"
+    },
+    {
+        "text-en": "AI-Generated Fake News Triggers Mass Panic, Social Platforms Take Down Accounts\n\nA recent incident in some state of some country involved AI-generated fake news, which led to widespread public panic. Several social media users received a \"government emergency statement\" claiming a severe epidemic was about to break out in a major city, urging citizens to urgently evacuate. After investigation, the police found that the message was fabricated by malicious individuals using AI-generated text and widely spread across social media platforms. Following the incident, the platforms quickly deactivated dozens of accounts involved in spreading the fake news. Experts pointed out that this event exposes the risks of AI technology being maliciously applied in the data application stage. Without effective regulation, AI text-generation tools could be used to create and spread misleading information, posing threats to public safety.",
+        "text-zh": "恶意使用AI生成虚假新闻，社交平台引发公众恐慌\n\n近日，某国某州发生了一起因AI生成虚假新闻而引发的社会恐慌事件。多个社交平台上的用户收到一则“政府突发紧急声明”，内容称某大型城市即将爆发严重疫情，呼吁市民紧急避难。经过调查，警方发现该消息是由恶意分子利用AI生成的虚假新闻，并通过社交平台广泛传播。事件发生后，相关平台紧急下线了数十个传播虚假消息的账户。专家表示，这一事件暴露了AI技术在数据应用阶段可能被恶意利用的风险。AI文本生成技术在没有有效监管的情况下，可能被用于制造和传播误导性信息，对公众安全造成威胁。",
+        "label": "application"
+    },
+    {
+        "text-en": "Biased AI Recruitment System Discriminates Against Female Job Seekers\n\nAI Recruitment System Bias Causes Unfair Treatment of Female Job Applicants. A well-known company has been exposed for its AI recruitment system allegedly discriminating against female job seekers. Investigations revealed that the AI algorithm used to screen resumes unfairly lowered scores for female applicants, particularly in technical job openings, causing many female candidates to be excluded from consideration. The company acknowledged that the AI system failed to undergo proper fairness checks during the data application phase, leading to biased outcomes. Experts warned that AI recruitment systems can amplify biases present in historical data during the data application stage, particularly in sensitive areas such as gender and race, severely impacting recruitment fairness.",
+        "text-zh": "智能招聘系统歧视女性求职者，导致人才流失\n\n智能招聘系统偏见引发女性求职者不公平待遇。某知名企业的智能招聘系统因涉嫌性别歧视被公众曝光，系统在筛选简历时对女性求职者存在明显偏见。调查表明，招聘系统的AI算法基于历史招聘数据，错误地将女性求职者的简历评分降低，尤其是在技术岗位的招聘过程中，导致大量女性候选人未能通过筛选。公司表示，AI系统在数据应用阶段未能进行适当的公平性检查，导致算法偏见影响了招聘结果。专家指出，人工智能的招聘系统在数据应用阶段可能会放大历史数据中的偏见，特别是在性别、种族等敏感领域，严重影响招聘公平性。",
+        "label": "application"
+    },
+    {
+        "text-en": "AI Chatbot Provides Dangerous Medical Advice, Patients Seek Compensation\n\nAI Chatbot Gives Harmful Medical Advice, Leading to Legal Action. An AI-powered medical chatbot used by a major health provider has been accused of providing harmful medical advice that led to serious health complications for patients. The chatbot, which was designed to assist users with general health inquiries, mistakenly advised several users to delay seeking professional medical care for serious symptoms. As a result, some patients suffered worsened conditions, leading to legal action. Experts warn that AI systems in healthcare must undergo rigorous testing and validation during the data application phase to prevent such dangerous outcomes.",
+        "text-zh": "AI聊天机器人提供有害医疗建议，患者提起诉讼\n\nAI聊天机器人提供有害医疗建议，导致法律诉讼。一家大型健康提供商使用的AI医疗聊天机器人被指控提供有害的医疗建议，导致患者出现严重健康并发症。该聊天机器人本旨在协助用户解答一般健康问题，但错误地建议多名用户推迟就严重症状寻求专业医疗帮助。结果，一些患者的病情恶化，导致提起法律诉讼。专家警告，医疗领域的AI系统必须在数据应用阶段进行严格的测试和验证，以防止此类危险后果。",
+        "label": "application"
+    },
+    {
+        "text-en": "AI-Driven News Curation Algorithm Fails to Filter Harmful Content, Causes Public Outcry\n\nAn AI-driven news curation algorithm used by a mass of media outlet has sparked public outcry after it failed to filter harmful content, such as fake news and hate speech. The algorithm, designed to personalize news feeds for users, was criticized for amplifying misleading articles and extremist views. The media company has apologized and pledged to overhaul the system, stating that the AI system’s data application phase was not adequately reviewed for potential risks. Experts urge media outlets to implement better content moderation and bias detection measures in the data application phase to prevent such incidents.",
+        "text-zh": "AI新闻推荐算法未能过滤有害内容，导致公众反响强烈\n\n一家大型媒体机构使用的AI新闻推荐算法因未能过滤有害内容（如假新闻和仇恨言论）而引发公众强烈反响。该算法旨在个性化用户的新闻推送，但被批评为放大误导性文章和极端观点。媒体公司已公开道歉，并承诺对系统进行全面整改，表示AI系统的数据应用阶段未能充分评估潜在风险。专家呼吁媒体机构在数据应用阶段实施更好的内容审核和偏见检测措施，以防止类似事件的发生。",
+        "label": "application"
+    },
+    {
+        "text-en": "Deepfake AI Video Alters Public Opinion, Misleads Voters\n\nA deepfake video created by an anonymous group has sparked a major controversy in a recent U.S. election. The AI-generated video appeared to show a leading political candidate making controversial statements that were later proven to be fabricated. The video, which went viral, significantly influenced public opinion and voter behavior. Election authorities are now investigating the use of AI-generated deepfake videos in political campaigns, as this incident highlights the potential for AI to be misused to manipulate public opinion and alter election outcomes. Experts are calling for stricter regulations on AI-generated content in the political arena to prevent similar events in the future.",
+        "text-zh": "Deepfake人工智能视频改变公众舆论，误导选民\n\n一个匿名组织制作的深度假视频在最近的美国大选中引发了重大争议。人工智能生成的视频似乎显示了一位主要政治候选人发表的有争议的言论，这些言论后来被证明是捏造的。这段视频迅速走红，极大地影响了民意和选民行为。选举当局目前正在调查在政治竞选中使用人工智能生成的深度假视频，因为这一事件突显了人工智能被滥用来操纵公众舆论和改变选举结果的可能性。专家们呼吁对政治领域的人工智能生成内容进行更严格的监管，以防止未来发生类似事件。",
+        "label": "application"
+    }
+]
