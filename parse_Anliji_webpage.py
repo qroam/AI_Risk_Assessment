@@ -52,4 +52,7 @@ if __name__ == "__main__":
     filename = r"人工智能风险与治理案例库 _ 人工智能治理公共服务平台.html"
     html_content = load_html(filename)
     records = parse(html_content)
+
+    with open(r"Anliji_data.json", "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=4)
     
