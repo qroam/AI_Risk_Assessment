@@ -12,8 +12,9 @@ ZH_EMBEDDING_MODEL_PATH = "<your-Chinese-sentence-embedding-model-path>"
 EN_EMBEDDING_MODEL_PATH = "<your-English-sentence-embedding-model-path>"
 # r"local_models/sentence-transformers_all-mpnet-base-v2"
 
-ZH_DATA_PATH = "<your-AI-risk-data-path-in-json-format>"
-EN_DATA_PATH = "<your-AI-risk-data-path-in-json-format>"
+# Obtain these two files using `parse_Anliji_webpage.py` and `parse_AIID_webpage.py` respectively.
+ZH_DATA_PATH = "Anliji_data.json"
+EN_DATA_PATH = "AIID_data.json"
 
 PROTOTYPES_FILEPATH = r"prototypes.json"
 EN_PROTOTYPES_EMBEDDING_SAVE_PATH = r"en_prototype_encodings_all-mpnet-base-v2.npy"
