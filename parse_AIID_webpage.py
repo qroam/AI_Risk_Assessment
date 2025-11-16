@@ -99,5 +99,5 @@ if __name__ == "__main__":
     records = parse(html_content)
     # print(records)
     
-    with open(r"AIID_Incidents_navigator_page.json", "w", encoding="utf-8") as f:
+    with open(r"AIID_data.json", "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=4)
