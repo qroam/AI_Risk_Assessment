@@ -71,6 +71,7 @@ def clustering(DFE, save=False, num_clusters=5):
 
 
 if __name__ == "__main__":
+    #### 步骤 2-1：计算文本表征
     #### Step 2-1: Document Representation
     encode_sentence_english = prepare_encode_func(EN_EMBEDDING_MODEL_PATH)
     encode_sentence_chinese = prepare_encode_func(ZH_EMBEDDING_MODEL_PATH)
@@ -94,11 +95,12 @@ if __name__ == "__main__":
         np.save(ZH_DATA_EMBEDDING_SAVE_PATH, zh_data_encodings)
     print(f"zh_data_encodings.shape: {zh_data_encodings.shape}")
     
-    
+    #### 步骤 2-2：降维
     #### Step 2-2: Dimensionality Reduction using Uniform Manifold Approximation and Projection (UMAP)
     DFE_en = UAMP_dr(input_data=en_data_encodings, rdims=8)
     DFE_zh = UAMP_dr(input_data=zh_data_encodings, rdims=8)
 
+    #### 步骤 2-3：层次聚类
     #### Step 2-3: Hierarchical clustering
     en_clusters = clustering(DFE_en)
     zh_clusters = clustering(DFE_zh)
