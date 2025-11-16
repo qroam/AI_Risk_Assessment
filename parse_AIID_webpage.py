@@ -83,8 +83,8 @@ def parse(html_content):
         # for field in fields:
         results.append({
             "Incident ID": fields[0].xpath('string(.)').strip(),
-            "Title": fields[1].xpath('string(.)').strip(),
-            "Description": fields[2].xpath('string(.)').strip(),
+            "title": fields[1].xpath('string(.)').strip(),
+            "content": fields[2].xpath('string(.)').strip(),
             "Date": fields[3].xpath('string(.)').strip(),
             "Alleged Deployer of AI System": fields[4].xpath('string(.)').strip(),
             "Alleged Developer of AI System": fields[5].xpath('string(.)').strip(),
